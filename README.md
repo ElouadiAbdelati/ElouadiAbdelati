@@ -2,18 +2,16 @@
 
   ## Hi there 👋, I'm Abdelati ✨
 
-![](https://komarev.com/ghpvc/?username=FaissalElfid&color=&color=yellow)
   
-  I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+  I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it!. 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaissalElfid&langs_count=7&theme=react)
   
 ## 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/faissal-el-fid-798b86199/">
+<a href="https://www.linkedin.com/in/abdelati-el-ouadi-80b7b3196/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:faissal.elfid@gmail.com">
+<a href="mailto:Elouadi_Abdelati@outlook.fr">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
@@ -30,6 +28,9 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PYTHON-orange"/>
+<img src="https://img.shields.io/badge/-PYTHON-orange"/>
+<img src=3https://img.shields.io/badge/-SQL-blue"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

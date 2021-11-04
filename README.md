@@ -5,6 +5,11 @@
   
   I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it!. 
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElouadiAbdelati&count_private=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouadiAbdelati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/abdelati-el-ouadi-80b7b3196/">

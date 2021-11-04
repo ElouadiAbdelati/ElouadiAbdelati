@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  ## Hi there 👋, I'm Abdelati ✨
+  ## Hi there 👋, I'm Abdelati 
 
   
   I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it!. 

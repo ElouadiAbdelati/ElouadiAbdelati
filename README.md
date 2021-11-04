@@ -5,7 +5,7 @@
   
   I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it!. 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElouadiAbbelati&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElouadiAbdelati&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElouadiAbdelati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
